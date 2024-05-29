@@ -7,6 +7,4 @@ function toggleMode() {
     } else {
        img.setAttribute("src", "./assets/Avatar claro.png")
     }
-
-
 }
